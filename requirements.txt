@@ -9,7 +9,7 @@ chardet==3.0.4
 ChatterBot==0.8.4
 chatterbot-corpus==1.1.1
 constantly==15.1.0
-cryptography==2.1.4
+cryptography==3.2
 cssselect==1.0.3
 cycler==0.10.0
 et-xmlfile==1.0.1
